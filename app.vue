@@ -1,7 +1,7 @@
 <template class="">
     <body class="bg-light-background dark:bg-dark-background">
         <nav class="font-heading">
-            <div class="mx-auto max-w-10xl px-2 lg:px-6 lg:px-8">
+            <div class="mx-auto max-w-10xl px-2 lg:px-8">
                 <div class="relative flex h-24 items-center justify-between lg:mx-20">
                     <div class="inset-y-0 left-0 flex items-center lg:hidden">
                         <button @click="toggleMobileMenu" :aria-expanded="menuOpen.toString()" type="button" class="button mx-5 text-light-text dark:text-dark-text" aria-controls="mobile-menu">
@@ -21,11 +21,11 @@
                         </div>
                         <div class="hidden lg:flex lg:ml-6 lg:justify-end flex-1">
                             <div class="flex space-x-7">
-                                <a href="" class="underline-animation text-light-text dark:text-dark-text rounded-md mx-2 px-1 py-2 ml-10 text-ml font-medium font-body hover:scale-105 transition-all duration-200 ease mb-1" aria-current="page">Accueil</a>
-                                <a href="https://github.com/MathieuLePuil/SymStartSaaS/blob/main/README.md" class="underline-animation text-light-text dark:text-dark-text rounded-md mx-2 px-1 py-2 ml-10 text-ml font-medium font-body hover:scale-105 transition-all duration-200 ease mb-1" aria-current="page" target="_blank">Nos services</a>
-                                <a href="https://github.com/MathieuLePuil/SymStartSaaS" class="underline-animation text-light-text dark:text-dark-text rounded-md mx-2 px-1 py-2 ml-10 text-ml font-medium font-body hover:scale-105 transition-all duration-200 ease mb-1" aria-current="page" target="_blank">Projets</a>
-                                <a href="https://github.com/MathieuLePuil/SymStartSaaS" class="underline-animation text-light-text dark:text-dark-text rounded-md mx-2 px-1 py-2 ml-10 text-ml font-medium font-body hover:scale-105 transition-all duration-200 ease mb-1" aria-current="page" target="_blank">Roadmap</a>
-                                <a href="https://github.com/MathieuLePuil/SymStartSaaS" class="underline-animation text-light-text dark:text-dark-text rounded-md mx-2 px-1 py-2 ml-10 text-ml font-medium font-body hover:scale-105 transition-all duration-200 ease mb-1" aria-current="page" target="_blank">Nous contacter</a>
+                                <a href="" class="underline-animation text-light-text dark:text-dark-text rounded-md mx-2 px-1 py-2 ml-10 text-ml font-medium font-body hover:scale-105 transition-all duration-150 ease mb-1" aria-current="page">Accueil</a>
+                                <a href="https://github.com/MathieuLePuil/SymStartSaaS/blob/main/README.md" class="underline-animation text-light-text dark:text-dark-text rounded-md mx-2 px-1 py-2 ml-10 text-ml font-medium font-body hover:scale-105 transition-all duration-150 ease mb-1" aria-current="page" target="_blank">Nos services</a>
+                                <a href="https://github.com/MathieuLePuil/SymStartSaaS" class="underline-animation text-light-text dark:text-dark-text rounded-md mx-2 px-1 py-2 ml-10 text-ml font-medium font-body hover:scale-105 transition-all duration-150 ease mb-1" aria-current="page" target="_blank">Projets</a>
+                                <a href="https://github.com/MathieuLePuil/SymStartSaaS" class="underline-animation text-light-text dark:text-dark-text rounded-md mx-2 px-1 py-2 ml-10 text-ml font-medium font-body hover:scale-105 transition-all duration-150 ease mb-1" aria-current="page" target="_blank">Roadmap</a>
+                                <a href="https://github.com/MathieuLePuil/SymStartSaaS" class="underline-animation text-light-text dark:text-dark-text rounded-md mx-2 px-1 py-2 ml-10 text-ml font-medium font-body hover:scale-105 transition-all duration-150 ease mb-1" aria-current="page" target="_blank">Nous contacter</a>
                             </div>
                         </div>
                     </div>
