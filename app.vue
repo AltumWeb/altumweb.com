@@ -1,5 +1,5 @@
 <template class="">
-    <body class="bg-light-background dark:bg-dark-background">
+    <section class="bg-light-background dark:bg-dark-background">
         <nav class="font-heading">
             <div class="mx-auto max-w-10xl px-2 lg:px-8">
                 <div class="relative flex h-24 items-center justify-between lg:mx-20">
@@ -58,7 +58,7 @@
         </nav>
 
         <NuxtPage />
-    </body>
+    </section>
 </template>
 
 <script setup>
@@ -120,7 +120,7 @@ onBeforeUnmount(() => {
         height: 2px;
         bottom: 0;
         right: 0;
-        background-color: currentColor; /* prend la même couleur que le texte */
+        background-color: currentColor;
         visibility: hidden;
         transform: scaleX(0);
         transform-origin: right;
