@@ -1,5 +1,5 @@
-<template class="">
-    <body class="bg-light-background dark:bg-dark-background">
+<template>
+    <section class="bg-light-background dark:bg-dark-background">
         <nav class="font-heading">
             <div class="mx-auto max-w-10xl px-2 lg:px-8">
                 <div class="relative flex h-24 items-center justify-between lg:mx-20">
@@ -19,7 +19,7 @@
                             <img v-else class="h-8 w-auto" src="/assets/Logo%20sombre%20sans%20fond.png" alt="AltumWeb Logo">
                             <h1 class="font-semibold text-xl -ml-1 mb-0.5 text-light-text dark:text-dark-text">ltumWeb</h1>
                         </div>
-                        <div class="hidden lg:flex lg:ml-6 lg:justify-end flex-1">
+                        <div class="hidden lg:flex lg:ml-6 lg:justify-end flex-1 mb-1">
                             <div class="flex space-x-7">
                                 <a href="" class="underline-animation text-light-text dark:text-dark-text rounded-md mx-2 px-1 py-2 ml-10 text-ml font-medium font-body hover:scale-105 transition-all duration-150 ease mb-1" aria-current="page">Accueil</a>
                                 <a href="https://github.com/MathieuLePuil/SymStartSaaS/blob/main/README.md" class="underline-animation text-light-text dark:text-dark-text rounded-md mx-2 px-1 py-2 ml-10 text-ml font-medium font-body hover:scale-105 transition-all duration-150 ease mb-1" aria-current="page" target="_blank">Nos services</a>
@@ -58,7 +58,7 @@
         </nav>
 
         <NuxtPage />
-    </body>
+    </section>
 </template>
 
 <script setup>
@@ -113,6 +113,12 @@ onBeforeUnmount(() => {
         padding-bottom: 0;
     }
 
+    @media screen and (min-width: 1024px) and (max-width: 1060px) {
+        .underline-animation {
+            font-size: 14px !important;
+        }
+    }
+
     .underline-animation::before {
         content: '';
         position: absolute;
@@ -120,7 +126,7 @@ onBeforeUnmount(() => {
         height: 2px;
         bottom: 0;
         right: 0;
-        background-color: currentColor; /* prend la même couleur que le texte */
+        background-color: currentColor;
         visibility: hidden;
         transform: scaleX(0);
         transform-origin: right;
