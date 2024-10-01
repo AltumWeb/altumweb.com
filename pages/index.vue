@@ -1,5 +1,6 @@
 <script setup>
 import { useHead } from '@vueuse/head'
+import Services from '~/components/services.vue'
 
 useHead({
     title: 'AltumWeb',
@@ -35,4 +36,6 @@ useHead({
             <img class="w-full lg:w-10/12 xl:w-4/5 2xl:w-2/3 mb-10 lg:mb-0" src="/assets/mosaique.png" alt="Mosaic">
         </div>
     </main>
+
+    <Services />
 </template>
