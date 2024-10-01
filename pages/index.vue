@@ -32,7 +32,7 @@ useHead({
             </div>
         </div>
         <div class="w-full flex items-center justify-center lg:justify-end mt-10 lg:mt-0">
-            <img class="w-full lg:w-10/12 xl:w-3/5 2xl:w-1/2 max-w-[600px] mb-10 lg:mb-0" src="/assets/mosaique.png" alt="Mosaic">
+            <img class="w-full lg:w-10/12 xl:w-4/5 2xl:w-2/3 mb-10 lg:mb-0" src="/assets/mosaique.png" alt="Mosaic">
         </div>
     </main>
 </template>
