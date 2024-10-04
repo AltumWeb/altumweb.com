@@ -1,6 +1,6 @@
 <template>
-    <div class="min-h-screen flex flex-col justify-center items-center space-y-16 bg-light-background dark:bg-dark-background">
-        <div class="w-full px-[10%] flex">
+    <div class="min-h-screen lg:max-h-screen flex flex-col justify-center items-center space-y-16 bg-light-background dark:bg-dark-background">
+        <div class="w-full px-[10%] flex mt-10 md:mt-0">
             <h2 class="text-2xl md:text-4xl font-bold text-light-text dark:text-dark-text">
                 Des solutions web adaptées à vos besoins
             </h2>
@@ -53,3 +53,5 @@
         </a>
     </div>
 </template>
+<script setup lang="ts">
+</script>
