@@ -24,4 +24,6 @@ useHead({
     <Projects />
 
     <Rating />
+
+    <Roadmap />
 </template>
