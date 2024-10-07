@@ -20,4 +20,6 @@ useHead({
     <Header />
 
     <Services />
+
+    <Projects />
 </template>
