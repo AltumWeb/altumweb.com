@@ -1,5 +1,5 @@
 <script setup>
-import { useHead } from '@vueuse/head'
+import {useHead} from '@vueuse/head'
 
 useHead({
     title: 'AltumWeb',
@@ -22,4 +22,6 @@ useHead({
     <Services />
 
     <Projects />
+
+    <Rating />
 </template>
