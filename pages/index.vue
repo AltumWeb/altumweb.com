@@ -26,4 +26,6 @@ useHead({
     <Rating />
 
     <Roadmap />
+
+    <Faq />
 </template>
