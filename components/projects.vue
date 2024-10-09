@@ -11,7 +11,7 @@
                 <div class="md:col-span-2">
                     <img src="/assets/codeclipper.webp" alt="CodeClipper" class="w-full h-full object-cover md:rounded-l-[3px] bg-light-primary dark:bg-dark-primary">
                 </div>
-                <div class="md:col-span-3 flex flex-col justify-center">
+                <div class="md:col-span-3 flex flex-col justify-center text-light-text dark:text-dark-text">
                     <div class="flex justify-between px-5 py-3 w-full">
                         <h3 class="text-xl font-medium">CodeClipper</h3>
                         <ul class="flex space-x-1">
@@ -27,7 +27,7 @@
             </div>
 
             <div class="grid grid-cols-1 md:grid-cols-5 rounded-md border-2 border-light-primary hover:scale-[101%] hover:bg-gray-50 dark:hover:bg-gray-950 duration-100 ease-in">
-                <div class="md:col-span-3 flex flex-col justify-center order-last md:order-none">
+                <div class="md:col-span-3 flex flex-col justify-center order-last md:order-none text-light-text dark:text-dark-text">
                     <div class="flex justify-between px-5 py-3 w-full">
                         <h3 class="text-xl font-medium">CodeClipper</h3>
                         <ul class="flex space-x-1">
@@ -49,7 +49,7 @@
                 <div class="md:col-span-2">
                     <img src="/assets/codeclipper.webp" alt="CodeClipper" class="w-full h-full object-cover md:rounded-l-[3px]">
                 </div>
-                <div class="md:col-span-3 flex flex-col justify-center">
+                <div class="md:col-span-3 flex flex-col justify-center text-light-text dark:text-dark-text">
                     <div class="flex justify-between px-5 py-3 w-full">
                         <h3 class="text-xl font-medium">CodeClipper</h3>
                         <ul class="flex space-x-1">
@@ -65,7 +65,7 @@
             </div>
 
             <div class="grid grid-cols-1 md:grid-cols-5 rounded-md border-2 border-light-primary hover:scale-[101%] hover:bg-gray-50 dark:hover:bg-gray-950 duration-100 ease-in">
-                <div class="md:col-span-3 flex flex-col justify-center order-last md:order-none">
+                <div class="md:col-span-3 flex flex-col justify-center order-last md:order-none text-light-text dark:text-dark-text">
                     <div class="flex justify-between px-5 py-3 w-full">
                         <h3 class="text-xl font-medium">CodeClipper</h3>
                         <ul class="flex space-x-1">
