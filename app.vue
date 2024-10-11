@@ -58,11 +58,20 @@
         </nav>
 
         <NuxtPage />
+
+        <hr class="border-1 border-gray-400 dark:border-gray-800 mx-[5%] mt-10">
+
+        <div>
+            <footer class="flex flex-col md:flex-row space-y-2 md:justify-between items-center mx-[10%] font-body text-center py-3 text-light-text dark:text-dark-text bg-light-background dark:bg-dark-background">
+                <p class="text-sm">© 2024 AltumWeb. Tous droits réservés.</p>
+                <a href="" class="text-sm hover:underline">Mentions Légales</a>
+            </footer>
+        </div>
     </section>
 </template>
 
 <script setup>
-import { ref, onMounted, onBeforeUnmount } from 'vue';
+import {onBeforeUnmount, onMounted, ref} from 'vue';
 
 const menuOpen = ref(false);
 const isDark = ref(true);
