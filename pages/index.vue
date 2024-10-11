@@ -18,14 +18,10 @@ useHead({
 
 <template>
     <Header />
-
     <Services />
-
     <Projects />
-
     <Rating />
-
     <Roadmap />
-
     <Faq />
+    <Contact />
 </template>
