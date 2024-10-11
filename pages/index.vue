@@ -28,4 +28,6 @@ useHead({
     <Roadmap />
 
     <Faq />
+
+    <Contact />
 </template>
