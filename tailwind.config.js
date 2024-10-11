@@ -5,6 +5,14 @@ module.exports = {
     darkMode: ["class"],
     safelist: ["dark"],
     prefix: "",
+    purge: [
+        './pages/**/*.vue',
+        './components/**/*.vue',
+        './layouts/**/*.vue',
+        './plugins/**/*.js',
+        './nuxt.config.js',
+        'app.vue'
+    ],
 
     theme: {
         extend: {
