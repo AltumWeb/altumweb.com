@@ -2,8 +2,7 @@ const animate = require("tailwindcss-animate")
 
 /** @type {import('tailwindcss').Config} */
 module.exports = {
-    darkMode: ["class"],
-    safelist: ["dark"],
+    darkMode: "class",
     prefix: "",
     purge: [
         './pages/**/*.vue',
@@ -11,7 +10,7 @@ module.exports = {
         './layouts/**/*.vue',
         './plugins/**/*.js',
         './nuxt.config.js',
-        'app.vue'
+        './app.vue'
     ],
 
     theme: {
