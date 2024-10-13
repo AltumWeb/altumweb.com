@@ -21,11 +21,11 @@
                         </div>
                         <div class="hidden lg:flex lg:ml-6 lg:justify-end flex-1 mb-1">
                             <div class="flex space-x-7">
-                                <a href="#accueil" class="underline-animation text-light-text dark:text-dark-text rounded-md mx-2 px-1 py-2 ml-10 text-ml font-medium font-body hover:scale-105 transition-all duration-150 ease mb-1" aria-current="page">Accueil</a>
-                                <a href="#services" class="underline-animation text-light-text dark:text-dark-text rounded-md mx-2 px-1 py-2 ml-10 text-ml font-medium font-body hover:scale-105 transition-all duration-150 ease mb-1" aria-current="page">Nos services</a>
-                                <a href="#projets" class="underline-animation text-light-text dark:text-dark-text rounded-md mx-2 px-1 py-2 ml-10 text-ml font-medium font-body hover:scale-105 transition-all duration-150 ease mb-1" aria-current="page">Projets</a>
-                                <a href="#roadmap" class="underline-animation text-light-text dark:text-dark-text rounded-md mx-2 px-1 py-2 ml-10 text-ml font-medium font-body hover:scale-105 transition-all duration-150 ease mb-1" aria-current="page">Roadmap</a>
-                                <a href="#contact" class="underline-animation text-light-text dark:text-dark-text rounded-md mx-2 px-1 py-2 ml-10 text-ml font-medium font-body hover:scale-105 transition-all duration-150 ease mb-1" aria-current="page">Nous contacter</a>
+                                <a href="https://altumweb.com/#accueil" class="underline-animation text-light-text dark:text-dark-text rounded-md mx-2 px-1 py-2 ml-10 text-ml font-medium font-body hover:scale-105 transition-all duration-150 ease mb-1" aria-current="page">Accueil</a>
+                                <a href="https://altumweb.com/#services" class="underline-animation text-light-text dark:text-dark-text rounded-md mx-2 px-1 py-2 ml-10 text-ml font-medium font-body hover:scale-105 transition-all duration-150 ease mb-1" aria-current="page">Nos services</a>
+                                <a href="https://altumweb.com/#projets" class="underline-animation text-light-text dark:text-dark-text rounded-md mx-2 px-1 py-2 ml-10 text-ml font-medium font-body hover:scale-105 transition-all duration-150 ease mb-1" aria-current="page">Projets</a>
+                                <a href="https://altumweb.com/#roadmap" class="underline-animation text-light-text dark:text-dark-text rounded-md mx-2 px-1 py-2 ml-10 text-ml font-medium font-body hover:scale-105 transition-all duration-150 ease mb-1" aria-current="page">Roadmap</a>
+                                <a href="https://altumweb.com/#contact" class="underline-animation text-light-text dark:text-dark-text rounded-md mx-2 px-1 py-2 ml-10 text-ml font-medium font-body hover:scale-105 transition-all duration-150 ease mb-1" aria-current="page">Nous contacter</a>
                             </div>
                         </div>
                     </div>
@@ -48,11 +48,11 @@
 
             <div :class="{'hidden': !menuOpen}" id="mobile-menu">
                 <div class="space-y-1 px-2 pb-3 pt-2">
-                    <a href="#accueil" class="block text-light-text dark:text-dark-text rounded-md px-3 py-2 text-ml font-medium font-body hover:bg-light-primary dark:hover:bg-dark-primary hover:text-light-background dark:hover:text-dark-background -mt-6" aria-current="page">Accueil</a>
-                    <a href="#services" class="block text-light-text dark:text-dark-text rounded-md px-3 py-2 text-ml font-medium font-body hover:bg-light-primary dark:hover:bg-dark-primary hover:text-light-background dark:hover:text-dark-background -mt-6" aria-current="page">Nos services</a>
-                    <a href="#projets" class="block text-light-text dark:text-dark-text rounded-md px-3 py-2 text-ml font-medium font-body hover:bg-light-primary dark:hover:bg-dark-primary hover:text-light-background dark:hover:text-dark-background -mt-6" aria-current="page">Projets</a>
-                    <a href="#roadmap" class="block text-light-text dark:text-dark-text rounded-md px-3 py-2 text-ml font-medium font-body hover:bg-light-primary dark:hover:bg-dark-primary hover:text-light-background dark:hover:text-dark-background -mt-6" aria-current="page">Roadmap</a>
-                    <a href="#contact" class="block text-light-text dark:text-dark-text rounded-md px-3 py-2 text-ml font-medium font-body hover:bg-light-primary dark:hover:bg-dark-primary hover:text-light-background dark:hover:text-dark-background -mt-6 border-b-2 border-light-text dark:border-dark-text border-solid" aria-current="page">Nous contacter</a>
+                    <a href="https://altumweb.com/#accueil" class="block text-light-text dark:text-dark-text rounded-md px-3 py-2 text-ml font-medium font-body hover:bg-light-primary dark:hover:bg-dark-primary hover:text-light-background dark:hover:text-dark-background -mt-6" aria-current="page">Accueil</a>
+                    <a href="https://altumweb.com/#services" class="block text-light-text dark:text-dark-text rounded-md px-3 py-2 text-ml font-medium font-body hover:bg-light-primary dark:hover:bg-dark-primary hover:text-light-background dark:hover:text-dark-background -mt-6" aria-current="page">Nos services</a>
+                    <a href="https://altumweb.com/#projets" class="block text-light-text dark:text-dark-text rounded-md px-3 py-2 text-ml font-medium font-body hover:bg-light-primary dark:hover:bg-dark-primary hover:text-light-background dark:hover:text-dark-background -mt-6" aria-current="page">Projets</a>
+                    <a href="https://altumweb.com/#roadmap" class="block text-light-text dark:text-dark-text rounded-md px-3 py-2 text-ml font-medium font-body hover:bg-light-primary dark:hover:bg-dark-primary hover:text-light-background dark:hover:text-dark-background -mt-6" aria-current="page">Roadmap</a>
+                    <a href="https://altumweb.com/#contact" class="block text-light-text dark:text-dark-text rounded-md px-3 py-2 text-ml font-medium font-body hover:bg-light-primary dark:hover:bg-dark-primary hover:text-light-background dark:hover:text-dark-background -mt-6 border-b-2 border-light-text dark:border-dark-text border-solid" aria-current="page">Nous contacter</a>
                 </div>
             </div>
         </nav>
@@ -64,7 +64,7 @@
         <div>
             <footer class="flex flex-col md:flex-row space-y-2 md:justify-between items-center mx-[10%] font-body text-center py-3 text-light-text dark:text-dark-text bg-light-background dark:bg-dark-background">
                 <p class="text-sm">© 2024 AltumWeb. Tous droits réservés.</p>
-                <a href="" class="text-sm hover:underline">Mentions Légales</a>
+                <a href="/mentions-legales" class="text-sm hover:underline">Mentions Légales</a>
             </footer>
         </div>
     </section>
