@@ -33,22 +33,18 @@ import {ref} from 'vue';
 const activeIndex = ref(null);
     const faqs = ref([
         {
-            question: 'Can I use Flowbite in open-source projects?',
+            question: 'Combien de temps prend la création d\'un site Web ?',
             answer:
-                'Flowbite is an open-source library of interactive components built on top of Tailwind CSS including buttons, dropdowns, modals, navbars, and more.',
+                'La durée de création d\'un site Web dépend de la complexité du projet. Un site Web simple peut être créé en quelques jours, tandis qu\'un site Web plus complexe peut prendre plusieurs semaines.',
         },
         {
-            question: 'Is there a Figma file available?',
-            answer: 'Yes, Flowbite includes a Figma file so you can prototype and design before development.',
+            question: 'Quels sont vos tarifs ?',
+            answer: 'Nos tarifs varient en fonction de la taille et de la complexité du projet. Contactez-nous pour obtenir un devis personnalisé gratuit.',
         },
         {
-            question: 'What are the differences between Flowbite and Tailwind UI?',
+            question: 'Proposez-vous la mise en ligne de notre site Web ?',
             answer:
-                'Flowbite is open-source and free to use, whereas Tailwind UI offers premium components developed by the Tailwind CSS team.',
-        },
-        {
-            question: 'What about browser support?',
-            answer: 'Flowbite supports all modern browsers, including Chrome, Firefox, Safari, and Edge.',
+                'Oui, nous proposons un service de mise en ligne de site Web. Vous pouvez le préciser dans votre projet afin de l\ajouter au devis.',
         },
     ]);
 
