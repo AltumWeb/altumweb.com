@@ -10,23 +10,23 @@
             <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
                 <div class="bg-gray-200 dark:bg-gray-700 p-4 rounded-lg shadow-md text-gray-700 dark:text-dark-text">
                     <div class="font-medium">
-                        Mathieu L.
+                        Nicolas P.
                     </div>
                     <div class="text-sm mb-4">
                         <i class="fa-solid fa-star"></i>
                         <i class="fa-solid fa-star"></i>
                         <i class="fa-solid fa-star"></i>
                         <i class="fa-solid fa-star"></i>
-                        <i class="fa-regular fa-star"></i>
+                        <i class="fa-solid fa-star"></i>
                     </div>
                     <div class="bg-white dark:bg-gray-600 p-4 rounded-md shadow-inner">
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam dolore ducimus maiores neque nisi quas sapiente sed, temporibus? Molestias, quidem sunt. Beatae culpa enim hic, minus odio placeat reiciendis saepe.</p>
+                        <p>AltumWeb a été d'une aide précieuse pour la refonte de notre site. L'équipe est professionnelle, réactive et à l'écoute de nos besoins. Le résultat final dépasse largement nos attentes, avec une interface moderne et conviviale. Je recommande chaudement leurs services.</p>
                     </div>
                 </div>
 
                 <div class="bg-gray-200 dark:bg-gray-700 p-4 rounded-lg shadow-md text-gray-700 dark:text-dark-text">
                     <div class="font-medium">
-                        Alison N.
+                        Sophie L.
                     </div>
                     <div class="text-sm mb-4">
                         <i class="fa-solid fa-star"></i>
@@ -36,23 +36,23 @@
                         <i class="fa-regular fa-star"></i>
                     </div>
                     <div class="bg-white dark:bg-gray-600 p-4 rounded-md shadow-inner">
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium amet animi doloribus eaque eos est eveniet fugiat illum, ipsam iusto maxime odio odit optio possimus praesentium recusandae reprehenderit sint ut.</p>
+                        <p>Très satisfaite du travail réalisé par AltumWeb. Ils ont su répondre à mes attentes avec beaucoup de sérieux et de professionnalisme. Quelques ajustements mineurs ont été nécessaires, mais ils ont toujours été disponibles pour effectuer les modifications rapidement. Une équipe à recommander sans hésitation !.</p>
                     </div>
                 </div>
 
                 <div class="bg-gray-200 dark:bg-gray-700 p-4 rounded-lg shadow-md text-gray-700 dark:text-dark-text">
                     <div class="font-medium">
-                        Léo T.
+                        David M.
                     </div>
                     <div class="text-sm mb-4">
                         <i class="fa-solid fa-star"></i>
                         <i class="fa-solid fa-star"></i>
                         <i class="fa-solid fa-star"></i>
                         <i class="fa-solid fa-star"></i>
-                        <i class="fa-regular fa-star"></i>
+                        <i class="fa-solid fa-star"></i>
                     </div>
                     <div class="bg-white dark:bg-gray-600 p-4 rounded-md shadow-inner">
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. A earum eveniet, expedita facilis ipsa laborum libero molestias nam, nisi perspiciatis sequi vitae voluptate? Commodi eveniet incidunt maiores officia omnis saepe.</p>
+                        <p>L'agence AltumWeb a parfaitement compris nos besoins et a su les traduire dans un site web intuitif et performant. La collaboration a été fluide du début à la fin. Une expertise rare, un vrai sens du détail. Nous sommes ravis du résultat !</p>
                     </div>
                 </div>
             </div>
