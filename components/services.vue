@@ -48,7 +48,7 @@
             </div>
         </div>
 
-        <a href="#" class="mt-8 bg-light-primary dark:bg-dark-primary text-light-background dark:text-dark-text text-base sm:text-lg p-3 sm:p-4 rounded-md hover:scale-105 ease-in duration-100 cursor-pointer z-50">
+        <a href="#contact" class="mt-8 bg-light-primary dark:bg-dark-primary text-light-background dark:text-dark-text text-base sm:text-lg p-3 sm:p-4 rounded-md hover:scale-105 ease-in duration-100 cursor-pointer z-50">
             Obtenez un devis gratuit
         </a>
     </div>
