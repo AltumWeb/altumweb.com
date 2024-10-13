@@ -1,5 +1,5 @@
 <template>
-    <div class="px-10 md:px-[10%] py-16">
+    <div id="roadmap" class="px-10 md:px-[10%] py-16">
         <div class="w-full flex mt-10">
             <h2 class="text-2xl md:text-4xl font-bold text-light-text dark:text-dark-text mb-20">
                 Notre processus de création

@@ -1,5 +1,5 @@
 <template>
-    <div class="w-full py-8 px-4 sm:px-8 lg:px-[10%] mt-20">
+    <div id="contact" class="w-full py-8 px-4 sm:px-8 lg:px-[10%] mt-20">
         <div class="flex flex-col lg:flex-row items-stretch justify-between gap-16 py-8 text-light-text dark:text-dark-text bg-light-background dark:bg-dark-background">
             <div class="flex-1 flex flex-col justify-between">
                 <div>

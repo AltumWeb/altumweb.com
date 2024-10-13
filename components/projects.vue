@@ -1,5 +1,5 @@
 <template>
-    <div class="min-h-screen py-16 bg-light-background dark:bg-dark-background">
+    <div id="projets" class="min-h-screen py-16 bg-light-background dark:bg-dark-background">
         <div class="w-full px-4 md:px-[10%] flex mt-10">
             <h2 class="text-2xl md:text-4xl font-bold text-light-text dark:text-dark-text">
                 Nos derniers projets
