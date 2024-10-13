@@ -56,7 +56,7 @@
                 </div>
             </div>
         </nav>
-
+        
         <NuxtPage />
 
         <hr class="border-1 border-gray-400 dark:border-gray-800 mx-[5%] mt-10">
