@@ -8,10 +8,10 @@
                 Nous concevons des solutions web personnalisées, adaptées à vos besoins, avec un suivi clientèle de qualité.
             </h2>
             <div class="flex space-x-3 sm:space-x-5">
-                <a href="#" class="bg-light-primary dark:bg-dark-primary text-light-background dark:text-dark-text text-base sm:text-lg p-3 sm:p-4 rounded-md hover:scale-105 ease-in duration-100 cursor-pointer">
+                <a href="#contact" class="bg-light-primary dark:bg-dark-primary text-light-background dark:text-dark-text text-base sm:text-lg p-3 sm:p-4 rounded-md hover:scale-105 ease-in duration-100 cursor-pointer">
                     Obtenir un devis
                 </a>
-                <a href="#" class="bg-light-secondary dark:bg-dark-secondary text-light-text dark:text-dark-text text-base sm:text-lg p-3 sm:p-4 rounded-md hover:scale-105 ease-in duration-100 cursor-pointer">
+                <a href="#services" class="bg-light-secondary dark:bg-dark-secondary text-light-text dark:text-dark-text text-base sm:text-lg p-3 sm:p-4 rounded-md hover:scale-105 ease-in duration-100 cursor-pointer">
                     Découvrir nos services
                 </a>
             </div>
