@@ -5,15 +5,15 @@
                 <div>
                     <h1 class="text-2xl md:text-4xl font-bold">Contactez-nous !</h1>
                     <p class="text-sm text-light-text dark:text-dark-text mt-3">
-                        Avez-vous un projet en tête ou besoin d'aide pour développer votre marque ? Contactez-nous pour obtenir de l'aide.
+                        Avez-vous un projet en tête ou besoin d'aide pour développer votre marque ? Contactez-nous et parlez-nous de votre projet pour obtenir un devis gratuit.
                     </p>
 
                     <div class="mt-8">
                         <ul class="mt-3">
                             <li class="flex items-center">
-                                <a href="mailto:contact@votreentreprise.com" class="text-sm ml-3">
+                                <a href="mailto:contact@altumweb.com" class="text-sm ml-3">
                                     <small class="block">Mail</small>
-                                    <strong>contact@votreentreprise.com</strong>
+                                    <strong>contact@altumweb.com</strong>
                                 </a>
                             </li>
                         </ul>
@@ -22,9 +22,9 @@
                     <div class="mt-8">
                         <ul class="mt-3">
                             <li class="flex items-center">
-                                <a href="tel:+33123456789" class="text-sm ml-3">
+                                <a href="tel:+33782917075" class="text-sm ml-3">
                                     <small class="block">Téléphone</small>
-                                    <strong>+33 1 23 45 67 89</strong>
+                                    <strong>+33 7 82 91 70 75</strong>
                                 </a>
                             </li>
                         </ul>
@@ -33,10 +33,10 @@
                     <div class="mt-8">
                         <ul class="mt-3">
                             <li class="flex items-center">
-                                <a href="mailto:contact@votreentreprise.com" class="text-sm ml-3">
+                                <p class="text-sm ml-3">
                                     <small class="block">Adresse</small>
-                                    <strong>contact@votreentreprise.com</strong>
-                                </a>
+                                    <strong>53 avenue Anatole France</strong>
+                                </p>
                             </li>
                         </ul>
                     </div>
@@ -47,7 +47,7 @@
                         Prendre rendez-vous gratuitement
                     </a>
 
-                    <a href="" class="block w-full sm:w-auto bg-light-secondary text-light-text dark:bg-dark-secondary dark:text-dark-text hover:scale-105 ease duration-100 font-semibold rounded-md text-sm px-6 py-3 text-center">
+                    <a href="mailto:contact@altumweb.com" class="block w-full sm:w-auto bg-light-secondary text-light-text dark:bg-dark-secondary dark:text-dark-text hover:scale-105 ease duration-100 font-semibold rounded-md text-sm px-6 py-3 text-center">
                         Obtenir un devis gratuit
                     </a>
                 </div>
