@@ -47,7 +47,7 @@
                         Prendre rendez-vous gratuitement
                     </a>
 
-                    <a href="" class="block w-full sm:w-auto bg-light-secondary text-light-text dark:bg-dark-secondary dark:text-dark-text hover:scale-105 ease duration-100 font-semibold rounded-md text-sm px-6 py-3">
+                    <a href="" class="block w-full sm:w-auto bg-light-secondary text-light-text dark:bg-dark-secondary dark:text-dark-text hover:scale-105 ease duration-100 font-semibold rounded-md text-sm px-6 py-3 text-center">
                         Obtenir un devis gratuit
                     </a>
                 </div>
