@@ -1,0 +1,23 @@
+# Fichier robots.txt pour altumweb.com
+
+# Autorise tous les robots d'accéder à l'ensemble du site
+User-agent: *
+
+# Bloque l'accès aux pages de test, de développement ou de ressources inutiles au référencement
+Disallow: /test/
+Disallow: /dev/
+Disallow: /temp/
+
+# Bloque les URLs de paramètres inutiles pour éviter la duplication de contenu
+Disallow: /*?*
+
+# Empêche l'accès aux fichiers sensibles
+Disallow: /cgi-bin/
+Disallow: /scripts/
+
+# Empêche l'accès aux fichiers privés
+Disallow: /private/
+Disallow: /hidden/
+
+# Sitemap pour permettre aux moteurs de recherche de trouver facilement le contenu
+Sitemap: https://www.altumweb.com/sitemap.xml
