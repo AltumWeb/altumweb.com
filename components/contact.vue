@@ -40,6 +40,21 @@
                             </li>
                         </ul>
                     </div>
+
+                    <div class="mt-8">
+                        <ul class="mt-3">
+                            <li class="flex items-center">
+                                <p class="text-sm ml-3">
+                                    <small class="block">Réseaux sociaux</small>
+                                    <strong class="space-x-5">
+                                        <a href="https://linkedin.com/company/altumweb" target="_blank"><i class="fab fa-linkedin text-3xl"></i></a>
+                                        <a href="https://github.com/AltumWeb" target="_blank"><i class="fab fa-github text-3xl"></i></a>
+                                        <a href="https://twitter.com/MathieuLePuil" target="_blank"><i class="fab fa-x-twitter text-3xl"></i></a>
+                                    </strong>
+                                </p>
+                            </li>
+                        </ul>
+                    </div>
                 </div>
                 <div class="mt-8 flex flex-col sm:flex-row space-y-4 sm:space-y-0 sm:space-x-4">
                     <a href="https://calendly.com/services-altumweb/entretien-gratuit-de-30-minutes" target="_blank" class="block text-center w-full sm:w-auto bg-light-primary text-light-background dark:bg-dark-primary dark:text-dark-background hover:scale-105 ease duration-100 font-semibold rounded-md text-sm px-6 py-3">
