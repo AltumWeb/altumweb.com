@@ -24,7 +24,7 @@
                             <li class="flex items-center">
                                 <a href="tel:+33782917075" class="text-sm ml-3">
                                     <small class="block">Téléphone</small>
-                                    <strong>+33 7 82 91 70 75</strong>
+                                    <strong>+33 7 64 42 25 43</strong>
                                 </a>
                             </li>
                         </ul>
@@ -117,11 +117,16 @@ export default {
     },
     methods: {
         sendEmail() {
-            const serviceID = 'service_u7fojaf';
-            const templateID = 'template_3fsmp0m';
-            const userID = '0WudSzsNcrhnh8UwS';
+            const config = useRuntimeConfig();
+            const serviceID = config.public.serviceId;
+            const templateID = config.public.templateId;
+            const userID = config.public.userId;
 
-            this.isLoading = true; // Début du chargement
+            console.log('Service ID:', serviceID);
+            console.log('Template ID:', templateID);
+            console.log('User ID:', userID);
+
+            this.isLoading = true;
 
             emailjs
                 .send(serviceID, templateID, this.form, userID)
@@ -129,7 +134,7 @@ export default {
                     (response) => {
                         console.log('Email envoyé avec succès', response.status, response.text);
                         alert('Votre message a été envoyé avec succès!');
-                        this.clearForm(); // Vider le formulaire après l'envoi
+                        this.clearForm();
                     },
                     (error) => {
                         console.error('Erreur lors de l\'envoi de l\'email', error);
@@ -137,7 +142,7 @@ export default {
                     }
                 )
                 .finally(() => {
-                    this.isLoading = false; // Fin du chargement
+                    this.isLoading = false;
                 });
         },
         clearForm() {
