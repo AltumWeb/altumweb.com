@@ -121,7 +121,7 @@ export default {
             const templateID = 'template_3fsmp0m';
             const userID = '0WudSzsNcrhnh8UwS';
 
-            this.isLoading = true; // Début du chargement
+            this.isLoading = true;
 
             emailjs
                 .send(serviceID, templateID, this.form, userID)
@@ -129,7 +129,7 @@ export default {
                     (response) => {
                         console.log('Email envoyé avec succès', response.status, response.text);
                         alert('Votre message a été envoyé avec succès!');
-                        this.clearForm(); // Vider le formulaire après l'envoi
+                        this.clearForm();
                     },
                     (error) => {
                         console.error('Erreur lors de l\'envoi de l\'email', error);
@@ -137,7 +137,7 @@ export default {
                     }
                 )
                 .finally(() => {
-                    this.isLoading = false; // Fin du chargement
+                    this.isLoading = false;
                 });
         },
         clearForm() {
