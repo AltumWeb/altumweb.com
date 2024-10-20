@@ -24,7 +24,7 @@
                             <li class="flex items-center">
                                 <a href="tel:+33782917075" class="text-sm ml-3">
                                     <small class="block">Téléphone</small>
-                                    <strong>+33 7 82 91 70 75</strong>
+                                    <strong>+33 7 64 42 25 43</strong>
                                 </a>
                             </li>
                         </ul>
