@@ -36,7 +36,7 @@
                         <i class="fa-regular fa-star"></i>
                     </div>
                     <div class="bg-white dark:bg-gray-600 p-4 rounded-md shadow-inner">
-                        <p>Très satisfaite du travail réalisé par AltumWeb. Ils ont su répondre à mes attentes avec beaucoup de sérieux et de professionnalisme. Quelques ajustements mineurs ont été nécessaires, mais ils ont toujours été disponibles pour effectuer les modifications rapidement. Une équipe à recommander sans hésitation !.</p>
+                        <p>Très satisfaite du travail réalisé par AltumWeb. Ils ont su répondre à mes attentes avec beaucoup de sérieux et de professionnalisme. Quelques ajustements mineurs ont été nécessaires, mais ils ont toujours été disponibles pour effectuer les modifications rapidement. Une équipe à recommander sans hésitation !</p>
                     </div>
                 </div>
 
