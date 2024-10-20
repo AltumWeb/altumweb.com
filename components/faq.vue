@@ -44,7 +44,7 @@ const activeIndex = ref(null);
         {
             question: 'Proposez-vous la mise en ligne de notre site Web ?',
             answer:
-                'Oui, nous proposons un service de mise en ligne de site Web. Vous pouvez le préciser dans votre projet afin de l\ajouter au devis.',
+                'Oui, nous proposons un service de mise en ligne de site Web. Vous pouvez le préciser dans votre projet afin de l\'ajouter au devis.',
         },
     ]);
 
