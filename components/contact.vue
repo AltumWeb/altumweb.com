@@ -117,9 +117,14 @@ export default {
     },
     methods: {
         sendEmail() {
-            const serviceID = 'service_u7fojaf';
-            const templateID = 'template_3fsmp0m';
-            const userID = '0WudSzsNcrhnh8UwS';
+            const config = useRuntimeConfig();
+            const serviceID = config.public.serviceId;
+            const templateID = config.public.templateId;
+            const userID = config.public.userId;
+
+            console.log('Service ID:', serviceID);
+            console.log('Template ID:', templateID);
+            console.log('User ID:', userID);
 
             this.isLoading = true;
 
