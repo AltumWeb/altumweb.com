@@ -9,8 +9,8 @@
                 <div v-for="(faq, index) in faqs" :key="index" class="border-b border-gray-300 py-4">
                     <div class="flex justify-between items-center cursor-pointer" @click="toggle(index)">
                         <h3 class="text-lg font-medium text-light-text dark:text-dark-text">{{ faq.question }}</h3>
-                        <svg :class="{'rotate-180': activeIndex === index, 'rotate-0': activeIndex !== index}" class="transform transition-transform duration-300" viewBox="0 0 24 24" stroke="currentColor" width="24" height="24">
-                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+                        <svg :class="{'rotate-180': activeIndex === index, 'rotate-0': activeIndex !== index}" class="transform transition-transform duration-300 stroke-light-text dark:stroke-dark-text" viewBox="0 0 24 24" stroke-width="2" width="24" height="24">
+                            <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" />
                         </svg>
                     </div>
                     <div v-if="activeIndex === index" class="overflow-hidden transition-all duration-500 ease-in-out mt-2 text-gray-600" :style="{ maxHeight: activeIndex === index ? $refs.answer?.scrollHeight + 'px' : '0px', opacity: activeIndex === index ? 1 : 0 }">
